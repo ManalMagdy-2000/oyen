@@ -27,6 +27,12 @@ This application is a simple web-based login and registration system built with 
    ```bash
    git clone https://github.com/ManalMagdy-2000/oyen.git
 
+## Video Demo
+
+<iframe width="560" height="315" src="https://youtu.be/6_NpVuNGSXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 2. **Install required packages:**
   - pip install -r requirements.txt
 
