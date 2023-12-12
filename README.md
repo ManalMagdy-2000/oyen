@@ -34,9 +34,6 @@ This application is a simple web-based login and registration system built with 
 - uvicorn main:app --reload
 
 ## Video Demo
-
-## Video Demo
-
 [![Watch the Video Demo](http://img.youtube.com/vi/6_NpVuNGSXE/0.jpg)](https://www.youtube.com/watch?v=6_NpVuNGSXE "Watch the Video Demo")
 
 
