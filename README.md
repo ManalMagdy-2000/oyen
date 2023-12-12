@@ -35,7 +35,10 @@ This application is a simple web-based login and registration system built with 
 
 ## Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6_NpVuNGSXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video Demo
+
+[![Watch the Video Demo](http://img.youtube.com/vi/6_NpVuNGSXE/0.jpg)](https://www.youtube.com/watch?v=6_NpVuNGSXE "Watch the Video Demo")
+
 
 
 
